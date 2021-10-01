@@ -1,0 +1,11 @@
+# Halloween Project - Chapter 3 directions
+- Create the home page from the index.html file that’s in the root folder for the project. This file includes just the basic HTML elements.
+- Add the HTML5 semantics to structure the page so it includes a header, the main content, and a footer.
+- Add an image and two levels of headings to the header. 
+  - You'll find the image, named pumpkin.gif, in the images folder. 
+- Add three levels of headings and the paragraph text for the main content. 
+- Boldface the last sentence of the guarantee.
+- Code the product categories as an unordered list with relative links to other pages.
+  - products/props.html, products/costumes.html, products/special.html, and products/masks.html
+- In the footer, use a character entity for the copyright symbol.
+- In the footer, use JavaScript to automatically generate the year.

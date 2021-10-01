@@ -27,7 +27,7 @@
 ### Partner 1
 - Code the product categories as an unordered list 
 
-## Partner 2
+### Partner 2
 - Code the product categories with relative links to other pages.
   - Props, "products/props.html"
   - Costumes, "products/costumes.html"

@@ -1,6 +1,5 @@
 # Halloween Project - Chapter 3 
-## Goal
-![Screenshot](images/screenshot.jpg)
+
 ## Directions
 
 ### Partner 1
@@ -35,12 +34,16 @@
   - Special Effects, "products/special.html"
   - Masks, "products/masks.html"
 
-# Partner 1
+## Partner 1
 - In the footer, use a character entity for the copyright symbol.
 - In the footer, use JavaScript to automatically generate the current year.
 - Add both partners names
 
-# Partner 2
+## Partner 2
 - Run the code through the [HTML validator](https://validator.w3.org/). Fix any errors or warnings. 
 - Send a link of the live website for grading.
   - The link will look like this:  
+
+## Goal
+
+![Screenshot](images/screenshot.jpg)
